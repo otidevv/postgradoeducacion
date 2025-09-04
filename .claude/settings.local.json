@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion\\resources/**)",
+      "Read(/D:\\postgradoeducacion\\routes/**)",
+      "Read(/D:\\postgradoeducacion\\config/**)",
+      "Read(/D:\\postgradoeducacion/**)",
+      "Read(/D:\\postgradoeducacion\\routes/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\css/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)",
+      "Read(/D:\\postgradoeducacion\\public\\programas/**)",
+      "Read(/D:\\postgradoeducacion\\public\\modalidad de estudios/**)",
+      "Read(/D:\\postgradoeducacion\\public\\programamas educacion/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\diplomados/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\catalogo/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)",
+      "Read(/D:\\postgradoeducacion\\resources\\views\\partials/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
