@@ -28,9 +28,9 @@
             <!-- Logo y texto -->
             <div class="flex items-center flex-shrink-0">
                 <a href="/" class="flex items-center group">
-                    <img src="/logo/logopostgrado.png" alt="Logo Postgrado en Educación" class="h-10 w-auto sm:h-12 lg:h-14 mr-3 transition-transform group-hover:scale-105">
+                    <img src="/logo/logopostgrado.png" alt="Logo Posgrado en Educación" class="h-10 w-auto sm:h-12 lg:h-14 mr-3 transition-transform group-hover:scale-105">
                     <div class="hidden sm:block">
-                        <h1 class="text-lg sm:text-xl lg:text-2xl font-bold text-blue-800 leading-tight">Postgrado en Educación</h1>
+                        <h1 class="text-lg sm:text-xl lg:text-2xl font-bold text-blue-800 leading-tight">Posgrado en Educación</h1>
                         <p class="text-xs sm:text-sm text-gray-600">Excelencia Académica</p>
                     </div>
                 </a>
