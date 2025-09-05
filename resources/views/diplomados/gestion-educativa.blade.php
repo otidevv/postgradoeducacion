@@ -342,7 +342,7 @@
                         <div class="space-y-2 pt-2 border-t border-purple-200">
                             <div class="flex justify-between items-center">
                                 <span class="text-gray-700">Mensualidad x 4:</span>
-                                <span class="font-semibold text-gray-900">S/ 175.00</span>
+                                <span class="font-semibold text-gray-900">S/ 127.50</span>
                             </div>
                             <p class="text-xs text-gray-500">(Código pago: 610)</p>
                         </div>
